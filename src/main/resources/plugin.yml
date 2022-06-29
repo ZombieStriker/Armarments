@@ -1,0 +1,6 @@
+name: Armaments
+version: '${project.version}'
+main: me.zombie_striker.armaments.ArmamentsPlugin
+api-version: 1.18
+depend: [ Harmony ]
+authors: [ Zombie_Striker ]
